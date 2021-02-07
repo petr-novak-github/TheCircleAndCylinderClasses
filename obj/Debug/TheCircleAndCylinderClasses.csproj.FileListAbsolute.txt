@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\obj\Debug\TheCircleAndCylinderClasses.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\obj\Debug\TheCircleAndCylinderClasses.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\bin\Debug\TheCircleAndCylinderClasses.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\bin\Debug\TheCircleAndCylinderClasses.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\bin\Debug\TheCircleAndCylinderClasses.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\obj\Debug\TheCircleAndCylinderClasses.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\11-ucim-se-2021-02-07\xxExcercisesOnClasses02\02-TheCircleAndCylinderClasses\stuff\TheCircleAndCylinderClasses\obj\Debug\TheCircleAndCylinderClasses.pdb
